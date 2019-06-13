@@ -15,5 +15,12 @@ public class Example {
   SpringApplication.run(Example.class, args);
  }
 
+ public static void helper()
+ {
+    System.out.println("Hey This is Jon Please like, approve me!!!");
+    String x = "hello";
+    x = x.toUpperCase();
+    System.out.println(x);
+ }
 }
 
