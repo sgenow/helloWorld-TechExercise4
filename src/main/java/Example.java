@@ -21,6 +21,7 @@ public class Example {
     String x = "hello";
     x = x.toUpperCase();
     System.out.println(x);
+    System.out.println("Chris as well!");
  }
 }
 
